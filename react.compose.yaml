@@ -1,0 +1,31 @@
+services:
+
+    shinobi-ui-dashboard-react:
+
+        container_name: shinobi-ui-dashboard-react
+        
+        image: softwareshinobi/shinobi-ui-dashboard-react
+
+        build: 
+
+            context: .
+
+            dockerfile: Dockerfile
+  
+        restart: unless-stopped
+
+        ports:
+
+            - "3000:3000"
+
+        environment:
+
+            DB_HOST: garuda-agile-ops-database
+
+            DB_PORT: 3306
+            
+            DB_NAME: garudaops
+
+            DB_USER: garudaops
+
+            DB_PASS: garudaops
