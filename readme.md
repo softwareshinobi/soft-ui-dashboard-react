@@ -69,4 +69,4 @@ This project utilizes the Soft UI Dashboard React template, which is copyrighted
 
 ## Live Demo
 
-View the live demo of this project at: [huracan.embanet.online](huracan.embanet.online)
+View the live demo of this project at: [huracan.embanet.online](https://huracan.embanet.online).
