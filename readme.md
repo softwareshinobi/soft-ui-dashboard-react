@@ -1,4 +1,8 @@
-# Soft UI Dashboard React Project
+# Shinobi UI Dashboard React Project
+
+Start your React Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg)
 
 This project is built using the Soft UI Dashboard React template, version 4.0.1, provided by Creative Tim.  It offers a comprehensive and visually appealing dashboard interface with various components and functionalities.
 
@@ -62,3 +66,7 @@ The codebase implements a React-based dashboard application with features like r
 ## Copyright
 
 This project utilizes the Soft UI Dashboard React template, which is copyrighted by Creative Tim.  See the license information within the source code for details.
+
+## Live Demo
+
+View the live demo of this project at: [huracan.embanet.online](huracan.embanet.online)
