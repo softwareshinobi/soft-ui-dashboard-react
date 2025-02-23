@@ -16,7 +16,7 @@ pipeline {
             
             agent {
             
-                label "aventador"
+                label "huracan"
             
             }
 
@@ -36,7 +36,7 @@ pipeline {
 
             agent {
             
-                label "aventador"
+                label "huracan"
             
             }
 
