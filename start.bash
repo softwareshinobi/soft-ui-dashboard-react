@@ -17,6 +17,8 @@ echo "#"
 
 apt install -y nodejs
 
+apt install -y npm
+
 npm cache clean --force
 
 
