@@ -10,36 +10,6 @@ pipeline {
     }
      
     stages {
-
-        stage('cascade template parts') {
-            
-            agent {
-            
-                label "aventador"
-            
-            }
-
-            steps {
-
-                dir('src/main/resources/templates/') {
-
-                    sh 'bash cascade.bash'
-                    
-                }                
-
-            }
-
-        }   
-                                     
-
-  
-  
-  
-  
- 
-    
-
-  
   
   
         stage('docker compose build') {
